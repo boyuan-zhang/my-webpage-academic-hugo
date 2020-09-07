@@ -5,8 +5,6 @@ authors:
 date: "2020-09-01T00:00:00Z"
 doi: ""
 
-weight: 1
-
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-09-01T00:00:00Z"
 
