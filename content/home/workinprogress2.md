@@ -20,4 +20,4 @@ weight = 50
 Early Warning Indicator of Banking Crises via factor-augmented VAR model
 
 Bayesian Estimation of Sparsely Heterogenous Panel Models 
-- <sup>(with *Frank Schorfheide* and *Hyungsik Roger Moon*)<\sup>
+- <small>(with *Frank Schorfheide* and *Hyungsik Roger Moon*)<\small>
