@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "The Ronald O. Perelman Center for Political Science and Economics \n 133 South 36th Street, Room 628", city = "Philadelphia", region = "PA", postcode = "19104", country = "United States", country_code = "US"}
+address = {street = "The Ronald O. Perelman Center for Political Science and Economics      133 South 36th Street, Room 628", city = "Philadelphia", region = "PA", postcode = "19104", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
