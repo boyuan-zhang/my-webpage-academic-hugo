@@ -66,6 +66,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-
-Measuring International Uncertainty: the Case of Korea
