@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2007.02435'
 url_code: ''
 url_dataset: ''
 url_poster: ''
