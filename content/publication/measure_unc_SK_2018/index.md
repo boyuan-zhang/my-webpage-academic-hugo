@@ -37,7 +37,7 @@ featured: false
 #   url: ""
 links:
 - name: Online Appendix
-  url: https://ars.els-cdn.com/content/image/1-s2.0-S0165176517304305-mmc2.pdf
+  url: 'https://ars.els-cdn.com/content/image/1-s2.0-S0165176517304305-mmc2.pdf'
 url_pdf: ''
 url_code: ''
 url_dataset: 'https://ars.els-cdn.com/content/image/1-s2.0-S0165176517304305-mmc1.xlsx'
