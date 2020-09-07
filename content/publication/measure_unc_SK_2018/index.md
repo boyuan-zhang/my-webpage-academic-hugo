@@ -1,5 +1,5 @@
 ---
-title: "Measuring international uncertainty: The case of Korea"
+title: "Measuring International Uncertainty: the Case of Korea"
 authors:
 - Minchul Shin
 - admin
