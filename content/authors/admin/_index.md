@@ -18,7 +18,7 @@ organizations:
   url: "https://economics.sas.upenn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a forth-year Ph.D. student in Economics at the University of Pennsylvania. My research interests include time series econometrics, Bayesian analysis, panel data model, applied macroeconomics, and machine learning.
+bio: My research interests include time series econometrics, Bayesian analysis, panel data model, applied macroeconomics, and machine learning.
 
 interests:
 - Econometrics
