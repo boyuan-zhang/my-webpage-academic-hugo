@@ -28,7 +28,7 @@ summary: We leverage a data rich environment to construct and study a measure of
 
 tags:
 - Uncertainty
-featured: true
+featured: false
 
 # links:
 # - name: ""
@@ -65,4 +65,3 @@ projects: []
 slides: example
 ---
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
