@@ -34,13 +34,11 @@ featured: false
 # - name: ""
 #   url: ""
 links:
-- name: Data
-  url: https://ars.els-cdn.com/content/image/1-s2.0-S0165176517304305-mmc1.xlsx
 - name: Online Appendix
   url: https://ars.els-cdn.com/content/image/1-s2.0-S0165176517304305-mmc2.pdf
 url_pdf: ''
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://ars.els-cdn.com/content/image/1-s2.0-S0165176517304305-mmc1.xlsx'
 url_poster: ''
 url_project: ''
 url_slides: ''
