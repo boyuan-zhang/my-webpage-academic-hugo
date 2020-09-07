@@ -67,3 +67,5 @@ subtitle = ""
  css_class = ""
 +++
 
+# Recitation Instructor
+- Econ 002: Introductory Economics: Macroeconomics, 2018 Fall, 2019 Spring
