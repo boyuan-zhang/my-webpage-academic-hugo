@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student in Economics
+role: Graduate Student in Economics at UPenn
 
 # Organizations/Affiliations
 organizations:
