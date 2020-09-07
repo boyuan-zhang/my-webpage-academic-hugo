@@ -1,7 +1,7 @@
 ---
 title: "Forecasting with Bayesian Grouped Random Effects in Panel Data"
 authors:
-- admin
+- Boyuan Zhang
 date: "2020-09-01T00:00:00Z"
 doi: ""
 
