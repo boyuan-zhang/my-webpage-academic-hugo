@@ -27,7 +27,7 @@ abstract: We leverage a data rich environment to construct and study a measure o
 summary: We leverage a data rich environment to construct and study a measure of macroeconomic uncertainty for the Korean economy.
 
 tags:
-- Source Themes
+- Uncertainty
 featured: true
 
 # links:
