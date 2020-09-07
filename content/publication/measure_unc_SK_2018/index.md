@@ -2,7 +2,7 @@
 title: "Measuring International Uncertainty: the Case of Korea"
 authors:
 - Minchul Shin
-- Boyuan Zhang
+- admin
 - Molin Zhong
 - Dong Jin Lee
 date: "2018-01-01T00:00:00Z"
