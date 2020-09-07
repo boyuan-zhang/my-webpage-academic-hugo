@@ -66,6 +66,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-## Recitation Instructor
+### Recitation Instructor
 - Econ 002: Introductory Economics: Macroeconomics, 2018 Fall, 2019 Spring
