@@ -67,3 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
+Early Warning Indicator of Banking Crises via factor-augmented VAR model
