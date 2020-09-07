@@ -19,7 +19,6 @@ weight = 100
 +++
 <h2>University of Pennsylvania</h2>
 
-_[Department of Economics](https://economics.sas.upenn.edu/)_
+_Recitation Instructor_
 
-+ Econ 002: Introductory Economics: Macroeconomics – Recitation Instructor (2018 Fall)
-+ Econ 002: Introductory Economics: Macroeconomics – Recitation Instructor (2019 Spring)
++ Econ 002: Introductory Economics: Macroeconomics – Recitation Instructor (2018 Fall, 2019 Spring)
