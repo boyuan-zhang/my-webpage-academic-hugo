@@ -28,7 +28,7 @@ summary: We leverage a data rich environment to construct and study a measure of
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
