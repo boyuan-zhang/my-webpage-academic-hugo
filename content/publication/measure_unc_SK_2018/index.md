@@ -1,7 +1,7 @@
 ---
 title: "Measuring International Uncertainty: the Case of Korea"
 authors:
-- [Minchul Shin]("https://mcmcs.github.io/")
+- Minchul Shin
 - admin
 - Molin Zhong
 - Dong Jin Lee
