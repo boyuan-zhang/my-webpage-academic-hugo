@@ -66,8 +66,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Optimal Combination of Arctic Sea Ice Extent Measures: A Dynamic Factor Modeling Approach
-
-
-Bayesian Forecast with Grouped Random Effects in Panel Data
