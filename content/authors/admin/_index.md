@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Boyuan Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Pennsylvania
+  url: "https://economics.sas.upenn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a forth-year Ph.D. student in Economics at the University of Pennsylvania. My research interests include time series econometrics, Bayesian analysis, panel data model, applied macroeconomics, and machine learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Econometrics
+- Applied Macroeconomics
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Economics
+    institution: University of Pennsylvania,
+    year: 2022 (Expected)
+  - course: M.S. in Statistics
+    institution: University of Illinois at Urbana-Champaign
+    year: 2016
+  - course: B.S. in Physics
+    institution: Renmin University of China
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:boyuanz@sas.upenn.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?hl=en&user=353ktLAAAAAJ
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/boyuan-zhang415/
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "boyuanz@sa.upenn.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
