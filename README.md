@@ -28,7 +28,7 @@ To help us develop this template and software sustainably under the MIT license,
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
 
 
-# My default domain: boyuan-zhang.netlify.app
+### My default domain: boyuan-zhang.netlify.app
 <!--
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
 -->
