@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a forth-year Ph.D. student in Economics at the University of Pennsylvania. My research interests include time series econometrics, Bayesian analysis, panel data model, applied macroeconomics, and machine learning.
+I am currently a fourth-year Ph.D. student in Economics at the University of Pennsylvania. My research interests include time series econometrics, Bayesian analysis, panel data model, applied macroeconomics, and machine learning.
