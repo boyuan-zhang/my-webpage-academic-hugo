@@ -18,9 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-<div style="text-align: justify">
 abstract: In this paper, we estimate and leverage latent constant group structure to generate the point, set, and density forecasts for short dynamic panel data. We implement a nonparametric Bayesian approach to simultaneously identify coefficients and group membership in the random effects which are heterogeneous across groups but fixed within a group. This method allows us to flexibly incorporate subjective prior knowledge on the group structure that potentially improves the predictive accuracy. In Monte Carlo experiments, we demonstrate that our Bayesian grouped random effects (BGRE) estimators produce accurate estimates and score predictive gains over standard panel data estimators. With a data-driven group structure, the BGRE estimators exhibit comparable accuracy of clustering with the *Kmeans* algorithm and outperform a two-step Bayesian grouped estimator whose group structure relies on *Kmeans*. In the empirical analysis, we apply our method to forecast the investment rate across a broad range of firms and illustrate that the estimated latent group structure improves forecasts relative to standard panel data estimators.
-</div>
 
 # Summary. An optional shortened abstract.
 summary: We 
@@ -44,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Korean economic uncertainty index (black) v.s. EPU index (gray)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
