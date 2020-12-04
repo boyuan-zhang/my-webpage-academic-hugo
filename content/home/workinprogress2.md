@@ -19,7 +19,6 @@ weight = 50
 
 Bayesian Estimation of Sparsely Heterogenous Panel Models <br /> (with *Frank Schorfheide* and *Hyungsik Roger Moon*)
 
-On the Aggregation of Probability Assessments: Regularized Mixtures of Predictive Densities for Eurozone Inflation and Real Interest Rates <br /> (with *Francis Diebold* and *Minchul Shin*)
-
 Early Warning Indicator of Banking Crises via factor-augmented VAR model
 
+On the Aggregation of Probability Assessments: Regularized Mixtures of Predictive Densities for Eurozone Inflation and Real Interest Rates <br /> (with *Francis Diebold* and *Minchul Shin*)
