@@ -23,4 +23,4 @@ Early Warning Indicator of Banking Crises via factor-augmented VAR model
 
 Forecast with Prior Wisdom on the Group Structure
 
-#On the Aggregation of Probability Assessments: Regularized Mixtures of Predictive Densities for Eurozone Inflation and Real Interest Rates <br /> (with *Francis Diebold* and *Minchul Shin*)
+On the Aggregation of Probability Assessments: Regularized Mixtures of Predictive Densities for Eurozone Inflation and Real Interest Rates <br /> (with *Francis Diebold* and *Minchul Shin*)
