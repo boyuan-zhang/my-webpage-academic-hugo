@@ -17,8 +17,10 @@ weight = 50
 
 +++
 
-Bayesian Estimation of Sparsely Heterogenous Panel Models <br /> (with *Frank Schorfheide* and *Hyungsik Roger Moon*)
+Bayesian Estimation of Sparsely Heterogenous Panel Models <br /> (with *Hyungsik Roger Moon* and *Frank Schorfheide*)
 
 Early Warning Indicator of Banking Crises via factor-augmented VAR model
 
 Forecast with Prior Wisdom on the Group Structure
+
+On the Aggregation of Probability Assessments: Regularized Mixtures of Predictive Densities <br /> (with *Francis Diebold* and *Minchul Shin*)
