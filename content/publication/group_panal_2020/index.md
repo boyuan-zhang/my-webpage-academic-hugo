@@ -24,7 +24,7 @@ abstract: In this paper, we estimate and leverage latent constant group structur
 summary: We 
 
 tags:
-- Uncertainty
+- Panel Data
 featured: false
 
 # links:
