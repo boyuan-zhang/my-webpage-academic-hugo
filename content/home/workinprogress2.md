@@ -22,3 +22,5 @@ Bayesian Estimation of Sparsely Heterogenous Panel Models <br /> (with *Hyungsik
 Early Warning Indicator of Banking Crises via factor-augmented VAR model
 
 Forecast with Prior Wisdom on the Group Structure
+
+The Path to an Ice-Free Arctic: Constrained Projections of Sea Ice Area, Extent, Thickness, and Volume <br /> (with *Frank Diebold*, *Philippe Goulet Coulombe*, *Glenn Rudebusch*, and *Maximilian Göbel*)
