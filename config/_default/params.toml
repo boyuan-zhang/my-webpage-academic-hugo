@@ -100,7 +100,7 @@ address = {street = "133 South 36th Street, Room 628", city = "Philadelphia", re
 coordinates = {latitude = "39.953404", longitude = "-75.194514"}
 
 # Directions for visitors to locate you.
-directions = "Enter The Ronald O. Perelman Center for Political Science and Economics (PCPSE), head to 6th floor"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
