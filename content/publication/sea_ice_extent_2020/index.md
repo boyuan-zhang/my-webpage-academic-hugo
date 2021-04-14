@@ -35,6 +35,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
+- name: "Working Paper Version"
+  url: "https://arxiv.org/pdf/2003.14276.pdf"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
