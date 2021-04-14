@@ -21,7 +21,7 @@ weight = 50
 
   <li> Early Warning Indicator of Banking Crises via factor-augmented VAR model </li>
 
-  <li> Forecast with Prior Wisdom on the Group Structure </li>
+  <li> Forecasting with Prior Wisdom on the Group Structure </li>
 
   <li> The Path to an Ice-Free Arctic: Constrained Projections of Sea Ice Area, Extent, Thickness, and Volume <br /> <small>(with <i>Francis Diebold</i>, <i>Philippe Goulet Coulombe</i>, <i>Glenn Rudebusch</i>, and <i>Maximilian Göbel</i>)</small> </li>
 </ul>
