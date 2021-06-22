@@ -18,6 +18,6 @@ weight = 60
 +++
 <ul>
   <li> International Association for Applied Econometrics (IAAE) 2021 Annual Conference - Rotterdam, The Netherlands (June 2021) </li>
-  <li> Canadian Economics Association Conference 2021 - Vancouver, Canada (June 20201) </li> 
+  <li> Canadian Economics Association Conference 2021 - Vancouver, Canada (June 2021) </li> 
   <li> The 25th International Conference on Computing in Economics and Finance - Ottawa, Canada (June 2019) </li>
 </ul>
