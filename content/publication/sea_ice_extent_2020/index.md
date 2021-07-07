@@ -21,7 +21,7 @@ publishDate: "2020-08-12T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Forthcoming, International Journal of Forecasting*"
+publication: "*International Journal of Forecasting*, in press"
 publication_short: ""
 
 abstract: The diminishing extent of Arctic sea ice is a key indicator of climate change as well as an accelerant for future global warming. Since 1978, Arctic sea ice has been measured using satellite-based microwave sensing; however, different measures of Arctic sea ice extent have been made available based on differing algorithmic transformations of the raw satellite data. We propose and estimate a dynamic factor model that combines four of these measures in an optimal way that accounts for their differing volatility and cross-correlations. We then use the Kalman smoother to extract an optimal combined measure of Arctic sea ice extent. It turns out that almost all weight is put on the NSIDC Sea Ice Index, confirming and enhancing confidence in the Sea Ice Index and the NASA Team algorithm on which it is based.
