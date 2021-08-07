@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D. in Economics
     institution: University of Pennsylvania
-    year: 2022 (Expected)
+    year: 2023 (Expected)
   - course: M.S. in Statistics
     institution: University of Illinois at Urbana-Champaign
     year: 2016
