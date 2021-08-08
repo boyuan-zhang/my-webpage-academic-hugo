@@ -33,10 +33,10 @@ education:
     year: 2017 - 2023 (Expected)
   - course: M.S. in Statistics
     institution: University of Illinois at Urbana-Champaign
-    year: 2014 - 2016
+    year: 2016
   - course: B.S. in Physics
     institution: Renmin University of China
-    year: 2010 - 2014
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
