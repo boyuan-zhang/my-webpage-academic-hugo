@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a fifth-year Ph.D. student in Economics at the University of Pennsylvania. My research interests include time series econometrics, Bayesian analysis, panel data model, applied macroeconomics, and machine learning. Before joining UPenn, I received a Master in Statistics at the University of Illinois at Urbana-Champaign.
+I am currently a fifth-year Ph.D. student in Economics at the University of Pennsylvania. My research interests include time series econometrics, Bayesian analysis, panel data model, applied macroeconomics, and machine learning. Before joining UPenn, I received a master degree in Statistics at the University of Illinois at Urbana-Champaign.
