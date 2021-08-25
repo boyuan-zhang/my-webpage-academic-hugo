@@ -22,6 +22,8 @@ weight = 50
   <li> Early Warning Indicator of Banking Crises via factor-augmented VAR model </li>
 
   <li> Forecasting with Prior Wisdom on the Group Structure </li>
-
+ 
   <li> Predicting an Ice-Free Arctic Ocean Using Sea Ice Area, Extent, Thickness, and Volume <br /> <small>(with <i>Francis Diebold</i>, <i>Philippe Goulet Coulombe</i>, <i>Glenn Rudebusch</i>, and <i>Maximilian Göbel</i>)</small> </li>
+  
+  <li> VARs and the Modern Age <br /> <small>(with <i>Philippe Goulet Coulombe</i>)</small> </li>
 </ul>
