@@ -23,7 +23,7 @@ weight = 50
 
   <li> Forecasting with Prior Wisdom on the Group Structure </li>
  
-  <li> Predicting an Ice-Free Arctic Ocean Using Sea Ice Area, Extent, Thickness, and Volume <br /> <small>(with <i>Francis Diebold</i>, <i>Philippe Goulet Coulombe</i>, <i>Glenn Rudebusch</i>, and <i>Maximilian Göbel</i>)</small> </li>
+  <li> Predicting an Ice-Free Arctic Ocean Using Sea Ice Area, Extent, Thickness, and Volume <br /> <small>(with <i><a href="https://www.sas.upenn.edu/~fdiebold/"> Francis Diebold </a></i>, <i><a href="https://philippegouletcoulombe.com/"> Philippe Goulet Coulombe </a></i>, <i>Glenn Rudebusch</i>, and <i>Maximilian Göbel</i>)</small> </li>
   
   <li> VARs and the Modern Age <small>(with <i> <a href="https://philippegouletcoulombe.com/"> Philippe Goulet Coulombe </a> </i>)</small> </li>
 </ul>
