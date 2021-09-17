@@ -18,7 +18,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 # Revise and Resubmit to *the Journal of Econometrics*
-publication: "submitted"
+publication: "*submitted*"
 publication_short: ""
 
 abstract: We propose methods for constructing regularized mixtures of density forecasts.  We explore a variety of objectives and regularization penalties, and we use them in a substantive exploration of Eurozone inflation and real interest rate density forecasts. All individual inflation forecasters (even the ex post best  forecaster) are outperformed by our regularized mixtures. The log scores of the Simplex and Best-Average mixtures, for example, are approximately 7\% better than that of the ex post best individual forecaster, and  15\% better  than that of the median forecaster.  From the Great Recession onward, the optimal regularization tends to move density forecasts' probability mass from the centers to the tails, correcting for overconfidence.
