@@ -55,7 +55,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
-- icon: school
+- icon: fa-school
   icon_pack: far
   link: https://economics.sas.upenn.edu/people/boyuan-zhang
   
