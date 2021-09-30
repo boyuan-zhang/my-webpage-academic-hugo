@@ -56,7 +56,7 @@ social:
   icon_pack: ai
   link: files/cv.pdf
 - icon: fa-school
-  icon_pack: far
+  icon_pack: fas
   link: https://economics.sas.upenn.edu/people/boyuan-zhang
   
 # Link to a PDF of your resume/CV from the About widget.
