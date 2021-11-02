@@ -30,6 +30,8 @@ summary: We leverage a data rich environment to construct and study a measure of
 
 tags:
 - Uncertainty
+- Business cycle
+- Stochastic volatility
 featured: false
 
 # links:
