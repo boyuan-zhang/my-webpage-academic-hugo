@@ -31,6 +31,7 @@ summary:
 tags:
 - Climate
 - Factor model
+- Nowcasting
 featured: false
 
 # links:
