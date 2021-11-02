@@ -29,9 +29,9 @@ abstract: The diminishing extent of Arctic sea ice is a key indicator of climate
 # Summary. An optional shortened abstract.
 summary:
 tags:
-- Climate
-- Factor model
+- Climate modeling
 - Nowcasting
+- Model Aveaging
 featured: false
 
 # links:
