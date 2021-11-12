@@ -83,8 +83,5 @@ Welcome.
 
 I am currently a fifth-year Ph.D. student in Economics at the University of Pennsylvania. 
 
-My research interests include time series econometrics, Bayesian analysis, panel data model, applied macroeconomics, and machine learning. Much of my work focus on  econometric forecasting.
+My research interests include time series econometrics, Bayesian analysis, panel data model, applied macroeconomics, and machine learning. Much of my work focus on  econometric forecasting. I'm currently working on forecasting with dynamic panel data models with prior knowledge on the group structure. It will be interaction of panel data model, semisupervised machine learning and netwrok models.
 
-
-
-In my job-market paper, 
