@@ -2,8 +2,6 @@
 # Display name
 title: Boyuan Zhang
 
-text-align: justify
-
 # Username (this should match the folder name)
 authors:
 - admin
@@ -81,6 +79,8 @@ user_groups:
 - Visitors
 ---
 
+<DIV align="justify">
+  
 Welcome!
 
 I am currently a fifth-year Ph.D. student in Economics at the University of Pennsylvania. 
@@ -89,3 +89,4 @@ My research interests include time series econometrics, Bayesian analysis, panel
 
 I'm working on forecasting with dynamic panel data models. In particular, I develop a Bayesian grouped estimator that leverages prior information on the latent constant group structure to assist forecasting. It is an exciting topic that involves panel data model estimation, semi-supervised learning and network models.
 
+</DIV>
