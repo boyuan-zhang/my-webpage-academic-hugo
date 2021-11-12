@@ -69,7 +69,7 @@ email: "boyuanz@sas.upenn.edu"
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["5px", "0", "5px", "0"]
+    padding: ["5px", "0", "1px", "0"]
     
     
 # Organizational groups that you belong to (for People widget)
