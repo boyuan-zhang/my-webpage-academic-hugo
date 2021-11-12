@@ -1,7 +1,7 @@
 ---
 title: "Optimal Combination of Arctic Sea Ice Extent Measures: A Dynamic Factor Modeling Approach"
 authors:
-- Francis Diebold
+- Francis X. Diebold
 - Maximilian Gobel
 - Philippe Goulet Coulombe
 - Glenn Rudebusch
