@@ -1,7 +1,7 @@
 ---
 title: "On the Aggregation of Probability Assessments: Regularized Mixtures of Predictive Densities for Eurozone Inflation and Real Interest Rates"
 authors:
-- Francis Diebold
+- Francis X. Diebold
 - Minchul Shin
 - Boyuan Zhang
 date: "2021-01-05T00:00:00Z"
