@@ -63,13 +63,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "boyuanz@sa.upenn.edu"
+email: "boyuanz@sas.upenn.edu"
 
 
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["10px", "0", "10px", "0"]
+    padding: ["5px", "0", "5px", "0"]
     
     
 # Organizational groups that you belong to (for People widget)
