@@ -79,7 +79,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome.
+Welcome!
 
 I am currently a fifth-year Ph.D. student in Economics at the University of Pennsylvania. 
 
