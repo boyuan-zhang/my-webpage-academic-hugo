@@ -2,6 +2,8 @@
 # Display name
 title: Boyuan Zhang
 
+text-align: justify
+
 # Username (this should match the folder name)
 authors:
 - admin
