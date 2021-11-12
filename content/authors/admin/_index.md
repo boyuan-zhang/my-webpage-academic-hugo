@@ -83,7 +83,7 @@ user_groups:
   
 Welcome!
 
-I am currently a fifth-year Ph.D. student in Economics at the University of Pennsylvania. 
+I am currently a fifth-year Ph.D. candidate in Economics at the University of Pennsylvania. 
 
 My research interests include time series econometrics, Bayesian analysis, panel data models, applied macroeconomics, and machine learning. Much of my work focus on  econometric forecasting. 
 
