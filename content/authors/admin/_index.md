@@ -87,6 +87,6 @@ I am a fifth-year Ph.D. candidate in Economics at the University of Pennsylvania
 
 My research interests include time series econometrics, Bayesian analysis, panel data models, applied macroeconomics, and machine learning. Most of my work focus on  econometric forecasting. 
 
-I'm currently working on forecasting with dynamic panel data models. In particular, I develop a Bayesian grouped estimator that leverages prior information on the latent constant group structure to assist forecasting. It is an exciting topic that involves panel data model estimation and semi-supervised learning.
+My recent projects are focused on introducing grouped heterogeneity into dynamic panel data models. In particular, I'm interested in bring prior knowledge on the  latent group structure into the model and explore the predictive gain over other panel data estimators. It is an exciting topic that involves panel data model estimation and semi-supervised learning.
 
 </DIV>
