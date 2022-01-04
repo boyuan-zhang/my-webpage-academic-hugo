@@ -23,8 +23,8 @@ bio: My research interests include time series econometrics, Bayesian analysis, 
 interests:
 - Econometrics
 - Applied Macroeconomics
-- Panel Data Model
 - Machine Learning
+- Panel Data
 
 education:
   courses:
