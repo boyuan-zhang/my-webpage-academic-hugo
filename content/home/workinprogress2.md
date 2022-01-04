@@ -19,7 +19,7 @@ weight = 50
 <ul>
   <li> Bayesian Estimation of Sparsely Heterogenous Panel Models <br /> <small>(with <i><a href="https://dornsife.usc.edu/hyungsik-roger-moon/"> Hyungsik Roger Moon</a></i> and <i><a href="https://web.sas.upenn.edu/schorf/">Frank Schorfheide</a></i>)</small> </li>
  
-  <li> When Will Arctic Sea Ice Disappear? Projections of Area, Extent, Thickness, and Volume <br /> <small>(with <i><a href="https://www.sas.upenn.edu/~fdiebold/"> Francis Diebold </a></i>, <i><a href="https://philippegouletcoulombe.com/"> Philippe Goulet Coulombe </a></i>, <i><a href="https://glennrudebusch.com/">Glenn Rudebusch</a></i>, and <i> <a href="https://www.maximiliangoebel.com/"> Maximilian Göbel </a></i>)</small> </li>
+  <li> When Will Arctic Sea Ice Disappear? Projections of Area, Extent, Thickness, and Volume <br /> <small>(with <i><a href="https://www.sas.upenn.edu/~fdiebold/"> Francis X. Diebold </a></i>, <i><a href="https://philippegouletcoulombe.com/"> Philippe Goulet Coulombe </a></i>, <i><a href="https://glennrudebusch.com/">Glenn Rudebusch</a></i>, and <i> <a href="https://www.maximiliangoebel.com/"> Maximilian Göbel </a></i>)</small> </li>
   
   <li> Forecasting with Prior Wisdom on the Group Structure </li>
   
