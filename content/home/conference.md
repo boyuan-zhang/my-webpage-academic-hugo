@@ -17,8 +17,9 @@ weight = 60
 
 +++
 <ul>
-  <li> The 13th Annual Society for Financial Econometrics (SoFiE) Conference - virtual (June 2021) </li>
-  <li> International Association for Applied Econometrics (IAAE) 2021 Annual Conference - virtual (June 2021) </li>
-  <li> Canadian Economics Association Conference 2021 - virtual (June 2021) </li> 
-  <li> The 25th International Conference on Computing in Economics and Finance - Ottawa, Canada (June 2019) </li> 
+  <li> ASSA Annual Meeting, IAAE Invited Session - virtual (Jan 2022) </li>
+  <li> 13th Annual SoFiE Conference - virtual (June 2021) </li>
+  <li> IAAE Annual Conference - virtual (June 2021) </li>
+  <li> Canadian Economics Association Conference - virtual (June 2021) </li> 
+  <li> 25th International Conference on Computing in Economics and Finance - Ottawa, Canada (June 2019) </li> 
 </ul>
