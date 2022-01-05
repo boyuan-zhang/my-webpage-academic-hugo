@@ -19,6 +19,6 @@ weight = 100
 +++
 <h3>University of Pennsylvania</h3>
 
-_Recitation Instructor_
+Recitation Instructor
 + Econ 002: Introductory Economics: Macroeconomics (2018 Fall)
 + Econ 002: Introductory Economics: Macroeconomics (2019 Spring)
