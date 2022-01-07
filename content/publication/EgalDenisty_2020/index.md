@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://arxiv.org/pdf/2012.11649.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
