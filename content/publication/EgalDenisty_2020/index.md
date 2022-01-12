@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.nber.org/papers/w29635'
 url_code: ''
 url_dataset: ''
 url_poster: ''
