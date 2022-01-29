@@ -23,10 +23,10 @@
   url = "#conference"
   weight = 40
   
-[[main]]
-  name = "Teaching"
-  url = "#teaching2"
-  weight = 50
+# [[main]]
+#   name = "Teaching"
+#   url = "#teaching2"
+#   weight = 50
   
 [[main]]
   name = "Contact"
