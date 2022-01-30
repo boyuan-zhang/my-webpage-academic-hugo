@@ -25,6 +25,7 @@ interests:
 - Applied Macroeconomics
 - Machine Learning
 - Panel Data models
+- Climate Econometrics
 
 education:
   courses:
