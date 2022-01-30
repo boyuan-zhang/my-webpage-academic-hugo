@@ -41,7 +41,7 @@ links:
 - name: Working Paper Version
   url: 'https://arxiv.org/pdf/2003.14276.pdf'
 url_pdf: ''
-url_code: ''
+url_code: 'https://www.dropbox.com/s/z0vgny17idxqvj1/ReplicationFiles.zip?dl=0'
 url_dataset: ''
 url_poster: ''
 url_project: ''
